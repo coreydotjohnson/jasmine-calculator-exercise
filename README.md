@@ -5,7 +5,7 @@ You are given the HTML, CSS, and JavaScript for a loan calculator. Your goal is 
 
 To calculate the monthly payment, use the following formula:
 
-monthly payment=P×i1−(1+i)−n
+monthly payment= P×i / 1−(1+i)^−n
 Where:
 
 P = Amount of principle
